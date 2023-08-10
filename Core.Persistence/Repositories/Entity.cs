@@ -1,6 +1,6 @@
 ﻿namespace Core.Persistence.Repositories;
 
-public class Entity<T>
+public class Entity<T> : IEntityTimestamps
 {
     public T Id { get; set; }
     public DateTime CreatedDate { get; set; }
