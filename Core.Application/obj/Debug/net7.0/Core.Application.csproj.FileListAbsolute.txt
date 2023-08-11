@@ -1,0 +1,15 @@
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.deps.json
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.pdb
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.AssemblyReference.cache
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfoInputs.cache
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfo.cs
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CoreCompileInputs.cache
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\refint\Core.Application.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.pdb
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\ref\Core.Application.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.pdb
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CopyComplete
