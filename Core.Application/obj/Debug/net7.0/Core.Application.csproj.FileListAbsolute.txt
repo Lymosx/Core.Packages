@@ -13,3 +13,5 @@ F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application
 F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\refint\Core.Application.dll
 F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.pdb
 F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\ref\Core.Application.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+F:\Github repo\nArchitectureDemo\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
