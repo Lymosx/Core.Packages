@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8UFgZEe4zy9RMPvVX1f4yVF9A80brwIXsUhfoEon12cLsx9vaIXCiRvYoXoNLK6iNOdQSqTHzo0qcDXQFcxABw==",
+  "dgSpecHash": "rQCPtHsuggeaspUqa5aaz7QO3qgxBsKGLe5xw8kqC5QLQ1FV9jjUPhAcRtL3cZR6/EjHf8IP+yfKgL9Hcdu7kw==",
   "success": true,
   "projectFilePath": "F:\\Github repo\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Akif\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
